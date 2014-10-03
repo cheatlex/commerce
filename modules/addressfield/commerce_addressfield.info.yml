@@ -1,7 +1,0 @@
-name: Commerce Addressfield
-type: module
-description: 'Defines the Addressfield entity.'
-package: Commerce
-core: 8.x
-dependencies:
-  - commerce
